@@ -2,7 +2,7 @@ import processing.core.PApplet;
 
 public class FightingGame extends PApplet{
 	private Controller controller;
-	public static void main(String[] args) {
+	//public static void main(String[] args) {
 		PApplet.main(new String[] { "--present", FightingGame.class.getName() }); 
 	}
 	
