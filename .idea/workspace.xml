@@ -24,14 +24,30 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ba49e91-0372-4e96-8648-ef3eaba52e48" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CISC 191 Final Project/src/json.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CISC 191 Final Project/.project" beforeDir="false" afterPath="$PROJECT_DIR$/CISC 191 Final Project/.project" afterDir="false" />
+    <list default="true" id="2a057c6b-5b43-4136-a2fe-bf849480d40b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CISC 191 Final Project/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/CISC 191 Final Project/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CISC 191 Final Project/bin/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/CISC 191 Final Project/bin/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CISC 191 Final Project/bin/FightingGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/CISC 191 Final Project/bin/FightingGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CISC 191 Final Project/bin/MainKeyListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/CISC 191 Final Project/bin/MainKeyListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CISC 191 Final Project/bin/Model.class" beforeDir="false" afterPath="$PROJECT_DIR$/CISC 191 Final Project/bin/Model.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CISC 191 Final Project/bin/View.class" beforeDir="false" afterPath="$PROJECT_DIR$/CISC 191 Final Project/bin/View.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CISC 191 Final Project/src/FightingGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/CISC 191 Final Project/src/FightingGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CISC 191 Final Project/src/Json.java" beforeDir="false" afterPath="$PROJECT_DIR$/CISC 191 Final Project/src/Json.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CISC 191 Final Project/src/tester.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="package-info" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -39,11 +55,14 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.1\plugins\maven\lib\maven3" />
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1jbhFFpj0McKDq7NYz53jpweeot" />
+  <component name="ProblemsViewState">
+    <option name="showPreview" value="true" />
+  </component>
+  <component name="ProjectId" id="1jny3fnbNTAL9uYMsx091GpxcVf" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -53,16 +72,38 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.Json">
+    <configuration name="FightingGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FightingGame" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Json" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Json" />
+      <module name="CISC 191 Final Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FightingGame" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1ba49e91-0372-4e96-8648-ef3eaba52e48" name="Default Changelist" comment="" />
-      <created>1604078593551</created>
+      <changelist id="2a057c6b-5b43-4136-a2fe-bf849480d40b" name="Default Changelist" comment="" />
+      <created>1604454095640</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1604078593551</updated>
+      <updated>1604454095640</updated>
     </task>
     <servers />
   </component>
@@ -78,9 +119,17 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="370" y="171" key="run.anything.popup" timestamp="1604388298399">
-      <screen x="0" y="0" width="1422" height="760" />
+    <state x="505" y="131" key="#Project_Structure" timestamp="1604454170366">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="370" y="171" key="run.anything.popup/0.0.1422.760@0.0.1422.760" timestamp="1604388298399" />
+    <state x="505" y="131" key="#Project_Structure/0.0.2048.1112@0.0.2048.1112" timestamp="1604454170366" />
+    <state x="805" y="311" key="FileChooserDialogImpl" timestamp="1604455033722">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="805" y="311" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1604455033722" />
+    <state x="616" y="217" key="new project wizard" timestamp="1604455473411">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="616" y="217" key="new project wizard/0.0.2048.1112@0.0.2048.1112" timestamp="1604455473411" />
   </component>
 </project>
